@@ -1,0 +1,4 @@
+homepage.html --> login_page.html --> landing_page.html --> passenger info.php --> payment page.php --> ticket page.php
+      |                  ^
+      |                  |
+ sign-up.html --> --> -->
